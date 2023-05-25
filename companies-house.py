@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import requests
 import json, sys
 from config import base64_api_key
